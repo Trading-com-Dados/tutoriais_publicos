@@ -9,4 +9,4 @@ Alguns tutoriais já publicados nas redes sociais, cujos códigos serão disponi
 4. Matriz de correlação entre ativos no Python em 5 minutos
 5. Visualize vários ativos no mesmo gráfico no Python em 5 minutos
 6. Compare a sua carteira com o IBOV em 5 minutos
-7. 
+7. Obtendo dados de dividendos
