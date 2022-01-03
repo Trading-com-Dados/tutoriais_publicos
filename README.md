@@ -1,5 +1,9 @@
 # Tutoriais Públicos
 
+https://img.shields.io/github/commit-activity/w/Trading-com-Dados/tutoriais_publicos?style=plastic
+
+
+
 Tutoriais publicados nas nossas redes sociais para obtenção de dados, análises simples e outras tarefas relevantes no mercado financeiro.
 
 Alguns tutoriais já publicados nas redes sociais, cujos códigos serão disponibilizados aqui:
