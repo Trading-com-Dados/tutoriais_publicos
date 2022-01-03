@@ -1,6 +1,7 @@
 # Tutoriais Públicos
 
 ![](https://img.shields.io/github/commit-activity/w/Trading-com-Dados/tutoriais_publicos?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/Trading-com-Dados/tutoriais_publicos)
 
 
 
