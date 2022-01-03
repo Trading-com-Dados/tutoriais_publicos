@@ -1,6 +1,6 @@
 # Tutoriais Públicos
 
-https://img.shields.io/github/commit-activity/w/Trading-com-Dados/tutoriais_publicos?style=plastic
+![](https://img.shields.io/github/commit-activity/w/Trading-com-Dados/tutoriais_publicos?style=plastic)
 
 
 
