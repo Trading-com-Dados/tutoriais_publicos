@@ -27,6 +27,6 @@ Alguns tutoriais já publicados nas redes sociais, cujos códigos serão disponi
 2022
 1. Obtenha dados de criptomoedas com Python em menos de 5 minutos ([20220203](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220103_Tutorial_vectorbt_cripto_data_binance.ipynb))
 
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/company/tradingcomdados)
+[(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tradingcomdados)
 
 
