@@ -12,7 +12,13 @@ Os tutoriais são publicados principalmente no Instagram e Linkedin da Trading c
 ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tradingcomdados/)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/tradingcomdados)
 
-Alguns tutoriais já publicados nas redes sociais, cujos códigos serão disponibilizados aqui:
+Faremos o possível para manter esse repositório atualizado e contendo todos os tutoriais de conteúdo que desenvolvemos para nossas redes sociais. No entanto, não podemos garantir que a totalidade do conteúdo estará disponível aqui.
+
+A maior parte dos códigos tem como nome aqui no GitHub o mesmo título do conteúdo no Instagram. Se o nome não for o mesmo, haverá pelo menos similaridade no que está descrito aqui com o título no Instagram.
+
+A forma mais fácil de encontrar os códigos é através do ID presente depois do nome do código, que na verdade é apenas a data quando o código foi postado na seguinte sequência: ano, mês e dia, tudo junto. Exemplo: código criado no dia 03 de janeiro de 2022 possui como ID 20220103.
+
+> ESTE REPOSITÓRIO ESTÁ SENDO FORMATADO PARA REORGANIZAR TODA A SEQUÊNCIA E DISPONIBILIDADE DOS CÓDIGOS
 
 2021
 
@@ -26,7 +32,4 @@ Alguns tutoriais já publicados nas redes sociais, cujos códigos serão disponi
 
 2022
 1. Obtenha dados de criptomoedas com Python em menos de 5 minutos ([20220203](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220103_Tutorial_vectorbt_cripto_data_binance.ipynb))
-
-[[](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tradingcomdados)
-
 
