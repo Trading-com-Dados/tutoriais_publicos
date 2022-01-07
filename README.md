@@ -13,6 +13,9 @@ Os tutoriais são publicados principalmente no Instagram e Linkedin da Trading c
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/tradingcomdados)
 
 Alguns tutoriais já publicados nas redes sociais, cujos códigos serão disponibilizados aqui:
+
+2021
+
 1. Como obter dados de ações em 5 simples passos
 2. Comece a programar em Python em 1 minuto
 3. Seu primeiro gráfico de candle no Python em 1 minuto
@@ -20,3 +23,10 @@ Alguns tutoriais já publicados nas redes sociais, cujos códigos serão disponi
 5. Visualize vários ativos no mesmo gráfico no Python em 5 minutos
 6. Compare a sua carteira com o IBOV em 5 minutos
 7. Obtendo dados de dividendos
+
+2022
+1. Obtenha dados de criptomoedas com Python em menos de 5 minutos ([20220203](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220103_Tutorial_vectorbt_cripto_data_binance.ipynb))
+
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/company/tradingcomdados)
+
+
