@@ -7,6 +7,11 @@
 
 Tutoriais publicados nas nossas redes sociais para obtenção de dados, análises simples e outras tarefas relevantes no mercado financeiro.
 
+Os tutoriais são publicados principalmente no Instagram e Linkedin da Trading com Dados. Este repositório serve, portanto, como um repositório de conteúdo para quem deseja de forma simples e direta encontrar os códigos produzidos para estes tutoriais.
+
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 Alguns tutoriais já publicados nas redes sociais, cujos códigos serão disponibilizados aqui:
 1. Como obter dados de ações em 5 simples passos
 2. Comece a programar em Python em 1 minuto
