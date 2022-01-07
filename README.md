@@ -30,9 +30,11 @@ A forma mais fácil de encontrar os códigos é através do ID presente depois d
 6. Compare a sua carteira com o IBOV em 5 minutos
 7. Obtendo dados de dividendos
 8. Compare sua carteira com o CDI
-9. Capture a cotação do mini-índice com tempo real no Python utilizando o Metatrader (20211110)
-10. Estudo de caso MGLU (20211208)
-11. Sua carteira bate o dólar? Faça a comparação no Python em 5 minutos (20211209)
+9. Como criar médias móveis simples no Python em 5 minutos (20211105)
+10. Visualize as 7 maiores criptos no Python em 5 minutos (20221108)
+11. Capture a cotação do mini-índice com tempo real no Python utilizando o Metatrader (20211110)
+12. Estudo de caso MGLU (20211208)
+13. Sua carteira bate o dólar? Faça a comparação no Python em 5 minutos (20211209)
 
 2022
 1. Obtenha dados de criptomoedas com Python em menos de 5 minutos ([20220203](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220103_Tutorial_vectorbt_cripto_data_binance.ipynb))
