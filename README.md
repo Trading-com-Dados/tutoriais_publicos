@@ -33,7 +33,7 @@ A forma mais fácil de encontrar os códigos é através do ID presente depois d
 9. Como obter dados de ações no Python (ou ETFs, FIIs, BDRs, cripto, dólar)
 10. Compare sua carteira com o CDI
 11. Como criar médias móveis simples no Python em 5 minutos (20211105)
-12. Visualize as 7 maiores criptos no Python em 5 minutos (20221108)
+12. Visualize as 7 maiores criptos no Python em 5 minutos ([20221108](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20211108_Visualiza%C3%A7%C3%A3o_das_maiores_criptos.ipynb))
 13. Capture a cotação do mini-índice com tempo real no Python utilizando o Metatrader ([20211110](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20211110_Pr%C3%A1tica%20com%20Metatrader.ipynb))
 14. Estudo de caso MGLU ([20211208](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20211208_Estudo_Fundamentos_MGLU3_.ipynb))
 15. Sua carteira bate o dólar? Faça a comparação no Python em 5 minutos ([20211209](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20211205_Compara%C3%A7%C3%A3o_Carteira_vs_d%C3%B3lar.ipynb))
