@@ -30,7 +30,7 @@ A forma mais fácil de encontrar os códigos é através do ID presente depois d
 6. Compare a sua carteira com o IBOV em 5 minutos
 7. Obtendo dados de dividendos
 8. Matriz de risco vs. retorno no Python
-9. Como obter dados de ações no Python (ou ETFs, FIIs, BDRs, cripto, dólar)
+9. Como obter dados de ações no Python (ou ETFs, FIIs, BDRs, cripto, dólar) ([20210815](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/Post_Instagram_Como_obter_dados_de_a%C3%A7%C3%B5es.ipynb))
 10. Compare sua carteira com o CDI ([20210904](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20210904_An%C3%A1lise_Carteira_vs_CDI_e_outros_benchmarks.ipynb))
 11. Como criar médias móveis simples no Python em 5 minutos ([20211105](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20211105_M%C3%A9dias_m%C3%B3veis_simples_com_Python.ipynb))
 12. Visualize as 7 maiores criptos no Python em 5 minutos ([20221108](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20211108_Visualiza%C3%A7%C3%A3o_das_maiores_criptos.ipynb))
