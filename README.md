@@ -31,7 +31,7 @@ Os códigos desenvolvidos para o canal do YouTube estão em um outro repositóri
 4. Matriz de correlação entre ativos no Python em 5 minutos ([2021]())
 5. Visualize vários ativos no mesmo gráfico no Python em 5 minutos ([2021]())
 6. Compare a sua carteira com o IBOV em 5 minutos ([20210824](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20210824_Compara%C3%A7%C3%A3o_Carteira_vs_IBOV.ipynb))
-7. Obtendo dados de dividendos ([2021]())
+7. Obtendo dados de dividendos ([20210904](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20210904_Obtendo_Dividendos.ipynb))
 8. Matriz de risco vs. retorno no Python ([20210919](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20210919%20-%20Tutorial%20Risco_x_Retorno.ipynb))
 9. Como obter dados de ações no Python (ou ETFs, FIIs, BDRs, cripto, dólar) ([20210815](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/Post_Instagram_Como_obter_dados_de_a%C3%A7%C3%B5es.ipynb))
 10. Compare sua carteira com o CDI ([20210904](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20210904_An%C3%A1lise_Carteira_vs_CDI_e_outros_benchmarks.ipynb))
