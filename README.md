@@ -18,7 +18,7 @@ A maior parte dos códigos tem como nome aqui no GitHub o mesmo título do conte
 
 A forma mais fácil de encontrar os códigos é através do ID presente depois do nome do código, que na verdade é apenas a data quando o código foi postado na seguinte sequência: ano, mês e dia, tudo junto. Exemplo: código criado no dia 03 de janeiro de 2022 possui como ID 20220103.
 
-Atenção:
+<b> Atenção: </b> 
 Os códigos desenvolvidos para o canal do YouTube estão em um outro repositório. Para visitá-lo, clique aqui.
 
 > ESTE REPOSITÓRIO ESTÁ SENDO FORMATADO PARA REORGANIZAR TODA A SEQUÊNCIA E DISPONIBILIDADE DOS CÓDIGOS
