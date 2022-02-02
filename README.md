@@ -21,7 +21,7 @@ A forma mais fácil de encontrar os códigos é através do ID presente depois d
 <b> Atenção: </b> 
 Os códigos desenvolvidos para o canal do YouTube estão em um outro repositório. Para visitá-lo, clique aqui.
 
-> ESTE REPOSITÓRIO ESTÁ SENDO FORMATADO PARA REORGANIZAR TODA A SEQUÊNCIA E DISPONIBILIDADE DOS CÓDIGOS
+> REPOSITÓRIO EM CONSTRUÇÃO
 
 2021
 
@@ -42,6 +42,6 @@ Os códigos desenvolvidos para o canal do YouTube estão em um outro repositóri
 15. Sua carteira bate o dólar? Faça a comparação no Python em 5 minutos ([20211209](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20211205_Compara%C3%A7%C3%A3o_Carteira_vs_d%C3%B3lar.ipynb))
 
 2022
-1. Obtenha dados de criptomoedas com Python em menos de 5 minutos ([20220203](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220103_Tutorial_vectorbt_cripto_data_binance.ipynb))
-2. Comparação entre carteiras ([2022]())
+1. Obtenha dados de criptomoedas com Python em menos de 5 minutos ([20220103](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220103_Tutorial_vectorbt_cripto_data_binance.ipynb))
+2. Comparação entre carteiras ([20220201](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220201_Compara%C3%A7%C3%A3o_entre_Carteiras.ipynb))
 
