@@ -21,7 +21,7 @@ A forma mais fácil de encontrar os códigos é através do ID presente depois d
 <b> Atenção: </b> 
 Os códigos desenvolvidos para o canal do YouTube estão em um outro repositório. Para visitá-lo, clique aqui.
 
-> ESTE REPOSITÓRIO ESTÁ SENDO FORMATADO PARA REORGANIZAR TODA A SEQUÊNCIA E DISPONIBILIDADE DOS CÓDIGOS
+> REPOSITÓRIO EM CONSTRUÇÃO
 
 2021
 
