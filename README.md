@@ -43,4 +43,5 @@ Os códigos desenvolvidos para o canal do YouTube estão em um outro repositóri
 
 2022
 1. Obtenha dados de criptomoedas com Python em menos de 5 minutos ([20220203](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220103_Tutorial_vectorbt_cripto_data_binance.ipynb))
+2. Comparação entre carteiras ([2022]())
 
