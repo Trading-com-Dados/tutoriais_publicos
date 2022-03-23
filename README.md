@@ -23,7 +23,7 @@ Os códigos desenvolvidos para o canal do YouTube estão em um outro repositóri
 
 > REPOSITÓRIO EM CONSTRUÇÃO
 
-*2021*
+**2021**
 
 1. Como obter dados de ações em 5 simples passos ([2021]())
 2. Comece a programar em Python em 1 minuto ([2021]())
