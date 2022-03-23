@@ -46,4 +46,6 @@ Os códigos desenvolvidos para o canal do YouTube estão em um outro repositóri
 2. Comparação entre carteiras ([20220201](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220201_Compara%C3%A7%C3%A3o_entre_Carteiras.ipynb))
 3. Tutorial sobre Quantstats ([20220218](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/Pr%C3%A1tica%20com%20quantstats.ipynb))
 4. Descubra os investidores institucionais de um papel com o Python
+5. Você está comparando ativos da forma correta?
+6. Comece a programar em Python em 1 minuto (incluindo gráfico interativo de candle)
 
