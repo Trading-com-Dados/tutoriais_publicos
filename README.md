@@ -48,4 +48,5 @@ Os códigos desenvolvidos para o canal do YouTube estão em um outro repositóri
 4. Descubra os investidores institucionais de um papel com o Python
 5. Você está comparando ativos da forma correta?
 6. Comece a programar em Python em 1 minuto (incluindo gráfico interativo de candle)
+7. Ciclos de Mercado: avaliando a sazonalidade anual do IBOV ([20220330](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220330_Ciclos_de_Mercado_sazonalidade_anual.ipynb))
 
