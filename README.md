@@ -11,7 +11,7 @@ Os tutoriais são publicados principalmente no Instagram e Linkedin da Trading c
 
 ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tradingcomdados/)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/tradingcomdados)
-![](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.twitter.com/tradingcomdados)
+![](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/tradingcomdados)
 
 Faremos o possível para manter esse repositório atualizado e contendo todos os tutoriais de conteúdo que desenvolvemos para nossas redes sociais. No entanto, não podemos garantir que a totalidade do conteúdo estará disponível aqui.
 
