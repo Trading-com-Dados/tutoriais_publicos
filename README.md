@@ -52,3 +52,4 @@ Os códigos desenvolvidos para o canal do YouTube estão em um outro repositóri
 7. Ciclos de Mercado: avaliando a sazonalidade anual do IBOV ([20220330](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220330_Ciclos_de_Mercado_sazonalidade_anual.ipynb))
 8. Spread ações ON/PN: exemplo com PETR3 e PETR4 ([20220406](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220406_SPREAD_ON_PREF_com_Python.ipynb))
 9. Maiores crises econômicas pós guerras mundiais em diferentes escalas gráficas ([20220423](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20220423_Maiores_crises_economicas_pos_guerras_mundiais.ipynb))
+10. Screening IFR ([20221201](https://github.com/Trading-com-Dados/tutoriais_publicos/blob/main/20221201_Screening_IFR.ipynb))
